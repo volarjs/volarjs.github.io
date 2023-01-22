@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <style>
-    .st0 { fill: #42B883; }
-    .st1 { fill: #35495E; }
-  </style>
-  <path class="st0" d="M78.8,10L64,35.4L49.2,10H0l64,110l64-110C128,10,78.8,10,78.8,10z" />
-  <path class="st1" d="M78.8,10L64,35.4L49.2,10H25.6L64,76l38.4-66H78.8z" />
+<svg width="100" height="100" viewBox="0 0 214 186" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M112.196 183C109.887 187 104.113 187 101.804 183L1.34489 8.99999C-0.964512 4.99999 1.92225 0 6.54105 0L207.459 0C212.078 0 214.964 5 212.655 9L112.196 183Z" fill="url(#paint0_linear_157_109)"/>
+  <defs>
+    <linearGradient id="paint0_linear_157_109" x1="226" y1="11.5" x2="-0.499994" y2="122.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7A85EC"/>
+      <stop offset="1" stop-color="#3DDCFF"/>
+    </linearGradient>
+  </defs>
 </svg>
